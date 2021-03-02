@@ -8,7 +8,7 @@ such as Java, C, C++, etc.
 - You can reach me as **Taink#9231** on Discord, or on any of my repositories.
 
 I enjoy playing (mostly indie) video games. Here's my 
-[Steam profile](https://store.steampowered.com/)!  
+[Steam profile](https://steamcommunity.com/profiles/76561198117886606/)!  
 I'm interested in cybersecurity, in the sense that I enjoy learning
 new things on that subject
 (I'm not that well informed on the subject however).
