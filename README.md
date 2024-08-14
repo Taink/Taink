@@ -1,16 +1,11 @@
 ## Hi there 👋
 
-- I make Discord bots, and I occasionally test things with websites.
-- I’m currently learning continuous integration and deployment,
-along with Docker, Kubernetes and the like
-- I have some experience with the most frequent programming languages
-such as Java, C, C++, etc.
-- You can reach me as **Taink#9231** on Discord, or on any of my repositories.
-
-I enjoy playing (mostly indie) video games. Here's my 
-[Steam profile](https://steamcommunity.com/profiles/76561198117886606/)!  
-I'm interested in cybersecurity, in the sense that I enjoy learning
-new things on that subject
-(I'm not that well informed on the subject however).
-
-One day, I hope I will be able to make a good ~~recipe~~ program with CHEF.
+- I am interested in the design of complex systems.
+- I am fairly proficient with the usual programming languages
+  such as Java, JavaScript (+ TypeScript), Go, Python, etc.
+  I'd say I am fairly confident in my ability to learn syntax provided it is readily accessible.
+- I have some experience in C, C++ and Zig but I have yet to create "real" programs with them. I might also try Rust at some point.
+- I am pretty good at managing a Linux-based operating system. I still have a lot to learn though.
+- I want to learn more about graphics programming. I have only made simple 2D engines for now and I want to go deeper on that subject.
+- I enjoy playing (mostly indie) video games. Here's my
+  [Steam profile](https://steamcommunity.com/profiles/76561198117886606/)!
